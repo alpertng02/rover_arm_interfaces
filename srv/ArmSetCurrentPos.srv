@@ -1,0 +1,4 @@
+int32 stepper_pos1
+int32 stepper_pos2
+int32 stepper_pos3
+---

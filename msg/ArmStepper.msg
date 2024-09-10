@@ -1,0 +1,2 @@
+int32 target_pos_steps
+int32 speed_steps_sec
